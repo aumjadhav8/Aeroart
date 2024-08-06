@@ -1,0 +1,15 @@
+streamlit
+absl-py
+attrs
+cycler
+kiwisolver
+matplotlib
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+Pillow
+protobuf
+pyparsing
+python-dateutil
+six
